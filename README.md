@@ -46,7 +46,7 @@ _Deploy the bot and easily connect it to your WhatsApp account by pair code. Bel
 
 _Add SESSION_ID to setting.js And continue_
 <p align="left">
-<a href="https://youtube.com/@Masky_Official_Tech">
+<a href="https://youtu.be/udiXFKPw3NE">
     <img src="https://img.shields.io/badge/TUTORIAL-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
   </a><br>
     <a href="" target="_blank">
